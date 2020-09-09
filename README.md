@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.com/MisnikovRoman/FocusStartHomeworks.svg?branch=test%2FsetupCI)](https://travis-ci.com/MisnikovRoman/FocusStartHomeworks)
-
-## Домашнее задание #4
 
 **Название фичи**: calculator  
 **Описание**: Создать прототип калькулятора, взятого из нативного приложения "Калькулятор".
