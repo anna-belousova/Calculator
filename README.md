@@ -6,3 +6,5 @@
 * Приложение должно выглядить хорошо на всех размерах экранов
 * Верстка UI должна быть выполнена в коде
 * Ссылка на дизайн https://www.figma.com/file/3vpxffOmmVULsJdO4AhwcC/calculator?node-id=0%3A1
+
+![alt text](https://github.com/anna-belousova/Calculator/blob/calculator/Calculator/Screenshots/Снимок%20экрана%202020-09-09%20в%2015.51.14.png)
