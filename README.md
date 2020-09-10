@@ -5,4 +5,5 @@
 * Приложение правильно отображается на всех размерах экранов
 * Производятся вычисления
 
-![alt text](https://github.com/anna-belousova/Calculator/blob/calculator/Calculator/Screenshots/Снимок%20экрана%202020-09-09%20в%2015.51.14.png)
+![alt text](/Calculator/Screenshots/Снимок%20экрана%202020-09-09%20в%2015.51.14.png)
+![alt text](/Calculator/Screenshots/Снимок%20экрана%202020-09-10%20в%2017.48.42.png)
